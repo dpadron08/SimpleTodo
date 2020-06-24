@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was a challenge to get command-line tools installed, Kap installed, and git configured in order to successfully submit the app. All problems were resolved.
 
 ## License
 
